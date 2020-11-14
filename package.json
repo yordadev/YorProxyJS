@@ -1,0 +1,12 @@
+{
+  "name": "yorproxyjs",
+  "version": "1.0.0",
+  "description": "A lightweight proxy forwarding server built with NodeJS, with IP blacklisting, host blacklisting as well as a logging feature.",
+  "main": "proxy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yorda",
+  "license": "MIT",
+  "dependencies": {}
+}
