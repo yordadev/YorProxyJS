@@ -13,6 +13,7 @@ This project is an experimental lightweight NodeJS proxy forwarding server. Ther
 ```bash
 git clone github.com/yordadev/YorProxyJS
 cd YorProxyJS
+mkdir log
 ```
 
 #### Modify `lib/blacklisted.js` as needed
