@@ -37,5 +37,5 @@ node proxy.js
 
 ## Access Output Demo Screenshot
 
-![access log screenshot](https://github.com/yordadev/YorProxyJS/blob/master/public/redflags.png)
+![access log screenshot](https://github.com/yordadev/YorProxyJS/blob/master/public/accesslogexample.png)
 
